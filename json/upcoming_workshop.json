@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Advanced Data Science Techniques",
+        "date": "2024-10-15",
+        "location": "Room 204, Tech Building, IIT Roorkee",
+        "instructor": "Dr. Priya Mehta",
+        "link": "/event/workshops/5_day_winter_school_Glob_Dev_and_gen.html"
+    },
+    {
+        "name": "AI and Machine Learning Bootcamp",
+        "date": "2024-11-01",
+        "location": "Virtual (Zoom)",
+        "instructor": "Prof. Rahul Verma",
+        "link": "https://example.com/register-aiml"
+    },
+    {
+        "name": "Cybersecurity Essentials",
+        "date": "2024-10-22",
+        "location": "Room 502, Computer Science Building, IIT Roorkee",
+        "instructor": "Dr. Anjali Gupta",
+        "link": "https://example.com/register-cybersecurity"
+    },
+    {
+        "name": "Introduction to Cloud Computing",
+        "date": "2024-12-05",
+        "location": "Virtual (Google Meet)",
+        "instructor": "Mr. Vikram Singh",
+        "link": "https://example.com/register-cloudcomputing"
+    },
+    {
+        "name": "Blockchain and Cryptocurrency",
+        "date": "2024-11-18",
+        "location": "Room 105, Finance Department, IIT Roorkee",
+        "instructor": "Dr. Neha Sharma",
+        "link": "https://example.com/register-blockchain"
+    },
+    {
+        "name": "Advanced Data Science Techniques",
+        "date": "2024-10-15",
+        "location": "Room 204, Tech Building, IIT Roorkee",
+        "instructor": "Dr. Priya Mehta",
+        "link": "https://example.com/register-datascience"
+    },
+    {
+        "name": "AI and Machine Learning Bootcamp",
+        "date": "2024-11-01",
+        "location": "Virtual (Zoom)",
+        "instructor": "Prof. Rahul Verma",
+        "link": "https://example.com/register-aiml"
+    },
+    {
+        "name": "Cybersecurity Essentials",
+        "date": "2024-10-22",
+        "location": "Room 502, Computer Science Building, IIT Roorkee",
+        "instructor": "Dr. Anjali Gupta",
+        "link": "https://example.com/register-cybersecurity"
+    },
+    {
+        "name": "Introduction to Cloud Computing",
+        "date": "2024-12-05",
+        "location": "Virtual (Google Meet)",
+        "instructor": "Mr. Vikram Singh",
+        "link": "https://example.com/register-cloudcomputing"
+    },
+    {
+        "name": "Blockchain and Cryptocurrency",
+        "date": "2024-11-18",
+        "location": "Room 105, Finance Department, IIT Roorkee",
+        "instructor": "Dr. Neha Sharma",
+        "link": "https://example.com/register-blockchain"
+    },
+    {
+        "name": "Advanced Data Science Techniques",
+        "date": "2024-10-15",
+        "location": "Room 204, Tech Building, IIT Roorkee",
+        "instructor": "Dr. Priya Mehta",
+        "link": "https://example.com/register-datascience"
+    },
+    {
+        "name": "AI and Machine Learning Bootcamp",
+        "date": "2024-11-01",
+        "location": "Virtual (Zoom)",
+        "instructor": "Prof. Rahul Verma",
+        "link": "https://example.com/register-aiml"
+    },
+    {
+        "name": "Cybersecurity Essentials",
+        "date": "2024-10-22",
+        "location": "Room 502, Computer Science Building, IIT Roorkee",
+        "instructor": "Dr. Anjali Gupta",
+        "link": "https://example.com/register-cybersecurity"
+    },
+    {
+        "name": "Introduction to Cloud Computing",
+        "date": "2024-12-05",
+        "location": "Virtual (Google Meet)",
+        "instructor": "Mr. Vikram Singh",
+        "link": "https://example.com/register-cloudcomputing"
+    },
+    {
+        "name": "Blockchain and Cryptocurrency",
+        "date": "2024-11-18",
+        "location": "Room 105, Finance Department, IIT Roorkee",
+        "instructor": "Dr. Neha Sharma",
+        "link": "https://example.com/register-blockchain"
+    }
+]
